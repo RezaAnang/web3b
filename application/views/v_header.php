@@ -11,14 +11,14 @@
     <div id="wrapper">
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
+                <h1>Webpro III</h1>
                 <h3>Membuat Template Sederhana dengan CodeIgniter</h3>
             </hgroup>
             <nav>
                 <ul>
                     <li><a href="<?php echo base_url() . 'index.php/website' ?>">Home</a></li>
                     <li><a href="<?php echo base_url() . 'index.php/website/about' ?>">About</a></li>
-                    <li><a href="<?php echo base_url() . 'index.php/website/pesan' ?>">Pesan</a></li>
+                    <li><a href="<?php echo base_url() . 'index.php/website/pesan' ?>">Kontak</a></li>
                 </ul>
             </nav>
             <div class="clear"></div>

@@ -1,4 +1,4 @@
-<footer> <a href="http://www.RentalBuku.com">RentalBuku</a> </footer>
+<footer> <a href="https://youtube.com/channel/UCZZROqAiYJq-6fD5w0U7Kxw">Reza Anang</a> </footer>
 </div>
 </body>
 
