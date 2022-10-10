@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Web Prog II | Merancang Template sederhana dengan codeigniter</title>
+    <title>Web Progaming II | Merancang Template sederhana dengan codeigniter</title>
+    <link rel="shortcut icon" href="<?php echo base_url() ?>assets/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css">
 </head>
 
